@@ -1,0 +1,35 @@
+_repo: Ronicky-Doone_11880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Faust, Frederick Schiller
+    - Frederick, John
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: Ronicky Doone helps a new friend, miner Bill Gregg, track Caroline Smith,
+  a girl he wants to marry, to New York City. Once there the two westerners discover
+  that she and her friend, Ruth Tolliver, are employed by a ruthless gangster. Despite
+  overwhelming odds, Doone attempts to rescue them.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Doone, Ronicky (Fictitious character) -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Gamblers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Ronicky Doone
+url: http://www.gutenberg.org/ebooks/11880
