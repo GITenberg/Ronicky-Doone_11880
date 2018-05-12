@@ -1,5 +1,8 @@
 _repo: Ronicky-Doone_11880
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -15,6 +18,8 @@ description: Ronicky Doone helps a new friend, miner Bill Gregg, track Caroline 
   a girl he wants to marry, to New York City. Once there the two westerners discover
   that she and her friend, Ruth Tolliver, are employed by a ruthless gangster. Despite
   overwhelming odds, Doone attempts to rescue them.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11880#Ronicky-Doone
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
